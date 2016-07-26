@@ -1,0 +1,30 @@
+
+[ 
+      {
+            "id": "1",
+            "firstname": "John",
+            "lastname": "Doe",
+            "allowance": "56",
+            "employeeid": "1",
+            "type": "Illness",
+            "hours":"8"
+        },
+          {
+            "id": "2",
+            "firstname": "John",
+            "lastname": "Doe",
+            "allowance": "56",
+            "employeeid": "1",
+            "type": "Holiday",
+            "hours":"8"
+        }, 
+          {
+            "id": "3",
+            "firstname": "John",
+            "lastname": "Doe",
+            "allowance": "56",
+            "employeeid": "1",
+            "type": "Holiday",
+            "hours":"8"
+        }     
+]
